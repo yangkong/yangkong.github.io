@@ -55,7 +55,7 @@ tags:
 	protect=0  
 	gpgcheck=1
 	```
-	@access-key@ = 5ec297c8c3665 (bacula 홈페이지 이메일 제출후 얻을수있음)  
+	@access-key@ = 5ec2xxxx3665 (bacula 홈페이지 이메일 제출후 얻을수있음)  
 	@bacula-version@ = 버전 (ex : 9.6.3)
 
 3. 설치
